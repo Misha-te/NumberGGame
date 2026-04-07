@@ -6,6 +6,7 @@ This is a simple game where the computer thinks of a random number within a spec
 
 # Features
 1.The computer selects a random number between 1 and 100.
+
 2.The player inputs their guess.
 3.The game provides feedback on whether the guess is too high or too low.
 4.The game congratulates the player upon guessing the correct number.
