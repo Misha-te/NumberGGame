@@ -1,6 +1,3 @@
-
-
-https://roadmap.sh/projects/number-guessing-game
 Number Guessing Game
 A classic command-line number guessing game implemented in Python.
 
@@ -27,3 +24,6 @@ Run the game using the following command:
 
 python main.py
 Follow the on-screen instructions to guess the number.
+
+inspiration
+ https://roadmap.sh/projects/number-guessing-game
