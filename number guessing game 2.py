@@ -65,4 +65,6 @@ elif level==3:
             print("Your guess is greater than the number ")
         elif userInput < number:
             print("Your guess is less than the number")
+if count==0:
+    print("You are out of chances")
 
